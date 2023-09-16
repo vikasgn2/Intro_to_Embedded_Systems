@@ -90,7 +90,7 @@ unsigned char find_maximum(unsigned char *array, unsigned int size);
  *
  * @return mean Mean value of the array
  */
-unsigned char find_mean(unsigned char *array, unsigned int size);
+float find_mean(unsigned char *array, unsigned int size);
 
 /**
  * @brief Function that returns the median value of the array
